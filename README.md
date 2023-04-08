@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=omartins365%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Martins Ayoola`
-### Last Seen :eyes: Saturday, 8 April at 20:17 UTC
+### Last Seen :eyes: Saturday, 8 April at 20:25 UTC
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
@@ -16,6 +16,7 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 ##### Software Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
