@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=omartins365%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Martins Ayoola`
-### Last Seen :eyes: Saturday, 8 April at 20:12 UTC
+### Last Seen :eyes: Saturday, 8 April at 20:16 UTC
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
@@ -13,8 +13,9 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 ## ️ Languages and tools
 
 
-##### Web Development
+##### Software Development
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
@@ -23,6 +24,7 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40"/></code> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinsayoola/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoolaMartinsO)
