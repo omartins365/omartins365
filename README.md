@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=omartins365%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Martins Ayoola`
-### Last Seen :eyes: Monday, 10 April at 12:12 UTC
+### Last Seen :eyes: Tuesday, 11 April at 08:20 UTC
 
 Passion driven tech addict, open to learn and explore new technologies on this planet.
 
@@ -37,13 +37,12 @@ Passion driven tech addict, open to learn and explore new technologies on this p
 
 ### My GitHub Stats:
 
-<details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />  
   
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=omartins365&theme=radical)](https://github.com/omartins365/github-readme-stats)
-</details>
+
 	
   <summary><b>☄️ Github Streaks</b></summary>
 
