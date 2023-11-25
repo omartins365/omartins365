@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=omartins365%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
 ### Hi, there 👋, my name is `Martins Ayoola`
 
-Passion driven tech addict, open to learn and explore new technologies on this planet.
+Passion driven Computer Engineer, open to learn and explore new technologies on this planet.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
